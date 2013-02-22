@@ -5,4 +5,4 @@
  * @author MumboJumbo
  *
  */
-package nikolay;
+package lv.nikolay;
